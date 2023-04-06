@@ -6,5 +6,6 @@ app.get('/blog',(req,res) => {
 })
 
 app.listen(3001, ()=>{
-    console.log('hello from 3001 port!')
+    console.log('salaaaaaam')
 })
+
